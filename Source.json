@@ -1,0 +1,29 @@
+{
+"name": 
+"Aaron,s Source",
+"subtitle": 
+"A source for all of my apps",
+"description": 
+"Welcome to my source! Here you'll find all of my apps.",
+"iconURL": 
+"https://i.imgur.com/Bdnb8c1.png",
+"website": 
+"https://altstudio.app",
+"patreonURL": 
+"https://patreon.com/altstudio",
+"tintColor": 
+"#6156e2",
+"featuredApps": 
+[
+"dev-run.app.bevqjrneywpqvcgwfbluznmxpzia.501.Pong"
+],
+"headerURL": 
+"https://i.imgur.com/nhHq9ly.png",
+"apps": 
+[
+{...}
+],
+"news": 
+[
+]
+}
