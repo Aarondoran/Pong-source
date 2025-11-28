@@ -7,6 +7,7 @@
   "patreonURL": "https://patreon.com/altstudio",
   "tintColor": "#6156e2",
   "headerURL": "https://i.imgur.com/nhHq9ly.png",
+  "marketplaceID": "aaron.source.apps",
   "featuredApps": [
     "Pong"
   ],
@@ -18,10 +19,11 @@
       "version": "1.0",
       "versionDate": "2025-11-27",
       "downloadURL": "https://github.com/Aarondoran/Pong-source/raw/main/Pong.ipa",
-      "localizedDescription": "Classic Pong game for iOS sideloading.",
       "iconURL": "https://i.imgur.com/Bdnb8c1.png",
+      "localizedDescription": "Classic Pong game for iOS sideloading.",
       "size": 1048576,
-      "screenshotURLs": []
+      "screenshotURLs": [],
+      "marketplaceID": "aaron.source.apps"
     }
   ],
   "news": []
